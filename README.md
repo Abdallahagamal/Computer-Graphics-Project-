@@ -41,14 +41,14 @@ Draw lines, circles, ellipses, Bézier curves, and more. Apply clipping algorith
 ### The IDE — Where It All Comes Together
 > Visual Studio 2022 · WinForms Designer · Dark Theme
 
-![IDE View](screenshots/ide-view.png)
+![IDE View]([screenshots/ide-view.png](https://github.com/user-attachments/assets/9434a3b9-a4d0-49e3-83f8-27ac232e4333))
 
 ---
 
 ### The App in Action — 52 Shapes and Counting
 > Circle Bresenham active · Multi-color rendering · Mouse coords live
 
-![App Running](screenshots/app-running.png)
+![App Running]([screenshots/app-running.png](https://github.com/user-attachments/assets/bffe219a-f128-41ff-9056-7f173e0358f0))
 
 </div>
 
