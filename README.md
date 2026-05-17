@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝
 ```
 
-# 🎨 Computer Graphics Suite
+#  Computer Graphics Suite
 
 **A full-featured 2D graphics engine built from scratch — no shortcuts, no shortcuts, no shortcuts.**  
 *Every pixel placed by hand. Every algorithm written by algorithm.*
@@ -34,7 +34,7 @@ Draw lines, circles, ellipses, Bézier curves, and more. Apply clipping algorith
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 <div align="center">
 
@@ -54,27 +54,27 @@ Draw lines, circles, ellipses, Bézier curves, and more. Apply clipping algorith
 
 ---
 
-## 🧠 Algorithms Implemented
+##  Algorithms Implemented
 
-### 📐 Lines
+###  Lines
 | Algorithm | Description |
 |-----------|-------------|
 | **DDA** | Digital Differential Analyzer — the classic |
 | **Bresenham's Line** | Integer-only, pixel-perfect line drawing |
 | **Midpoint Line** | Decision parameter approach |
 
-### ⭕ Circles
+###  Circles
 | Algorithm | Description |
 |-----------|-------------|
 | **Bresenham's Circle** | 8-way symmetry, integer arithmetic |
 | **Midpoint Circle** | Decision variable circle rasterization |
 
-### 🥚 Ellipses
+###  Ellipses
 | Algorithm | Description |
 |-----------|-------------|
 | **Midpoint Ellipse** | Two-region ellipse drawing algorithm |
 
-### 〰️ Curves
+###  Curves
 | Algorithm | Description |
 |-----------|-------------|
 | **Bézier Curves** | Smooth parametric curves via control points |
@@ -82,13 +82,13 @@ Draw lines, circles, ellipses, Bézier curves, and more. Apply clipping algorith
 | **B-Spline** | Basis spline for smooth multi-segment curves |
 | **Cardinal Spline** | Tension-controlled interpolating splines |
 
-### 🎨 Filling
+###  Filling
 | Algorithm | Description |
 |-----------|-------------|
 | **Flood Fill** | Recursive region filling from seed point |
 | **Scan Line Fill** | Edge-sorted horizontal scan filling |
 
-### ✂️ Clipping
+###  Clipping
 | Algorithm | Description |
 |-----------|-------------|
 | **Cohen-Sutherland** | Region-code line clipping |
@@ -103,16 +103,16 @@ Draw lines, circles, ellipses, Bézier curves, and more. Apply clipping algorith
 
 ---
 
-## 🎮 Features
+##  Features
 
-- 🖤 **Dark grid canvas** — every drawing stands out
-- 🎨 **10-color palette** — Purple, Green, Orange, Pink, Blue, Yellow, Red, White, Gray, Black
-- 🖱️ **Live mouse coordinates** — X/Y displayed in real time
-- 📊 **Shape counter** — tracks every shape drawn this session
-- 🛠️ **Tool sidebar** — freehand, line, curve, circle, ellipse, fill, eraser
-- 📋 **Menu bar** — organized by algorithm category
-- ♻️ **Clear canvas** — start fresh anytime
-- 💾 **Save/Load** — preserve your artwork
+-  **Dark grid canvas** — every drawing stands out
+-  **10-color palette** — Purple, Green, Orange, Pink, Blue, Yellow, Red, White, Gray, Black
+-  **Live mouse coordinates** — X/Y displayed in real time
+-  **Shape counter** — tracks every shape drawn this session
+-  **Tool sidebar** — freehand, line, curve, circle, ellipse, fill, eraser
+-  **Menu bar** — organized by algorithm category
+-  **Clear canvas** — start fresh anytime
+-  **Save/Load** — preserve your artwork
 
 ---
 
@@ -127,7 +127,7 @@ Make sure you have the following installed:
   - Make sure `.NET desktop development` is checked during install
 - Windows 10 or later
 
-### 🔤 Font Setup
+###  Font Setup
 
 This project uses the **Kenon** font for the UI.
 
@@ -204,7 +204,7 @@ Computer-Graphics-Project-/
 
 ---
 
-## 🧑‍💻 Built With
+##  Built With
 
 | Technology | Purpose |
 |------------|---------|
@@ -217,7 +217,7 @@ Computer-Graphics-Project-/
 
 ---
 
-## 📚 Academic Context
+##  Academic Context
 
 This project implements the fundamental algorithms from **Computer Graphics** coursework:
 
@@ -230,15 +230,19 @@ All algorithms implemented **from scratch** — no GDI+ shape functions used for
 
 ---
 
-## 🙋 Author
+## 👥 Team
 
 <div align="center">
 
-**Abdallah Gamal**
+*Five minds. One canvas. Infinite pixels.*
 
-*Computer Science Student · Graphics Enthusiast · Pixel Perfectionist*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Abdallahagamal-181717?style=for-the-badge&logo=github)](https://github.com/Abdallahagamal)
+| 👤 Name | 🔗 LinkedIn |
+|---------|------------|
+| **Abdallah Gamal** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdallah-gamal-731096162/) |
+| **Esraa Ahmed** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/esraa-ahmed-01418b362/) |
+| **Esraa Mohamed** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/esraa-mohamed-a4a7b7282/) |
+| **Eyad Nader** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/eyad-nader-674022309/) |
+| **Judy Assem** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/judy-assem-5772b4294/) |
 
 ---
 
